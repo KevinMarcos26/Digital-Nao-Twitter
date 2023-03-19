@@ -32,9 +32,6 @@ personas que requieren, o gustan, de leer los datos duros y actuar en cuanto a e
 Como un primer acercamiento, el equipo de Marketing sugiere realizar un alpha testing
 empleando datos de Twitter. Ana le asigna esta tarea a Juan, de manera que él realiza una
 investigación previa y, al finalizar, sugiere trabajar en el siguiente proyecto: “Análisis de
-
-2
-
 sentimientos sobre comentarios en Twitter”. A Ana le parece una gran idea y le propone
 obtener información por 3 días consecutivos, y realizar un análisis respecto a los datos
 obtenidos.
